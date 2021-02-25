@@ -1,5 +1,5 @@
 # Quantum environment classification
-A project on building a quantum classifier which is capable of differentiating between two (possibly many) quantum channels.
+This repository is devoted to the project on building a quantum classifier which is capable of differentiating between two (possibly many) quantum channels.
 
 The problem being solved is the following.
 A quantum state is generated and sent through one of two qunatum channels.

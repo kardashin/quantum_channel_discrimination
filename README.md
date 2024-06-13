@@ -1,10 +1,5 @@
 # Quantum environment classification
-This repository is devoted to the project on building a quantum classifier which is capable of differentiating between two (possibly many) quantum channels.
+This repository contains the code used for our paper [Quantum-machine-learning channel discrimination
+](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.032409)
 
-The problem being solved is the following.
-A quantum state is generated and sent through one of two qunatum channels.
-The task is to build a quantum classifier telling through wihich of the channels the quantum state has passed.
-
-We try to solve this problem with the two approaches:
-- variational quantum circuits;
-- quantum kernel estimation.
+Some notebooks may be slightly outdated and contain a lot of garbage.
